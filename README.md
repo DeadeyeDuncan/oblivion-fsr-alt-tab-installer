@@ -1,3 +1,5 @@
+![FSR Alt-Tab Workaround title artwork](oblivion-fsr-title-v1.1.png)
+
 # FSR Alt-Tab Workaround installer 1.2
 
 Source for DeadeyeDuncan1337's [Oblivion Remastered mod 5643](https://www.nexusmods.com/oblivionremastered/mods/5643).
