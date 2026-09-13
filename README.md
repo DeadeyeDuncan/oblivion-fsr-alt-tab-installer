@@ -40,3 +40,9 @@ Original ZIP SHA-256:
 [VirusTotal archive report](https://www.virustotal.com/gui/file/728095cdf5c1d2a64ec947003bf6eb4b91335d20c91bd0ff4b61b9272a26c74f)
 
 At inspection on September 13, 2026, the archive report showed 1/68 detections: MaxSecure `Trojan.Malware.300983.susgen`. The cause is not confirmed; moderator review is requested. No bypass of the quarantine is intended.
+
+## Credits
+
+- **DeadeyeDuncan1337** — mod author, project direction, in-game testing, feedback, and publishing.
+- **OpenAI Codex (AI assistant)** — assistance investigating the workaround, implementing the installer and tests, writing documentation, and creating the page artwork.
+
